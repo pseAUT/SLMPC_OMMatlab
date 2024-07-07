@@ -7,9 +7,9 @@ parameter Real A1=1;
 parameter Real A2=1;
 parameter Real A3=1;
 
-parameter Real h1_In;
-parameter Real h2_In;
-parameter Real h3_In;
+parameter Real h1_In=0;
+parameter Real h2_In=0;
+parameter Real h3_In=0;
 
 parameter Real eps=1e-6;
 
